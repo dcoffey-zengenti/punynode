@@ -1,5 +1,5 @@
 {
-  "name": "punynode",
+  "name": "@dcoffey-zengenti/punynode",
   "version": "0.1.0",
   "description": "A modern punycode converter with typescript and ES6 support.",
   "type": "module",
